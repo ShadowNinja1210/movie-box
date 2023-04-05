@@ -1,0 +1,100 @@
+{
+  "movies": [
+    {
+      "_id": "1",
+      "name": "Avengers: Endgame",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/108b520c55e3c9760f77a06110d6a73b_e97cf224-d57f-44e3-8477-4f5479cd746b_480x.progressive.jpg?v=1573616089",
+      "rating": "8.4",
+      "duration": "3h 2m",
+      "year": "2019"
+    },
+    {
+      "_id": "2",
+      "name": "Batman v Superman: Dawn of Justice",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/a35c7d1268e3329b6e34efd38bbb79d3_0eacdb34-2d06-49db-9406-ab75f823cd0a_480x.progressive.jpg?v=1573587302",
+      "rating": "6.4",
+      "duration": "2h 31m",
+      "year": "2016"
+    },
+    {
+      "_id": "3",
+      "name": "Avatar: The Way of Water",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/avatar-way-of-watrer---intl_480x.progressive.jpg?v=1671210498",
+      "rating": "7.7",
+      "duration": "3h 12m",
+      "year": "2022"
+    },
+    {
+      "_id": "4",
+      "name": "John Wick: Chapter 4",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/john-wick-chapter-4_qe1lbw2p_c5eabec2-7403-44ca-a752-651488e3448a_480x.progressive.jpg?v=1674152098",
+      "rating": "8.3",
+      "duration": "2h 49m",
+      "year": "2023"
+    },
+    {
+      "_id": "5",
+      "name": "The Last Witch Hunter",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/820ca3df8763ce11160e80ecbb1fb539_14081e1c-649f-4438-834f-8d467ea15927_480x.progressive.jpg?v=1573592480",
+      "rating": "5.9",
+      "duration": "1h 46m",
+      "year": "2015"
+    },
+    {
+      "_id": "6",
+      "name": "Joker",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/de75d69d8743b0f549a2d0a32ce70ade_480x.progressive.jpg?v=1573572666",
+      "rating": "8.4",
+      "duration": "2h 2m",
+      "year": "2019"
+    },
+    {
+      "_id": "7",
+      "name": "F9",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/f9_wrhxlrih_480x.progressive.jpg?v=1653064255",
+      "rating": "5.2",
+      "duration": "2h 15m",
+      "year": "2021"
+    },
+    {
+      "_id": "8",
+      "name": "Uncharted",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/uncharted_8yb5nwo0_480x.progressive.jpg?v=1648225108",
+      "rating": "6.3",
+      "duration": "1h 56m",
+      "year": "2022"
+    },
+    {
+      "_id": "9",
+      "name": "Ant-Man and the Wasp: Quantumania",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ant-man-and-the-wasp-quantumania_vjwwvg7f_480x.progressive.jpg?v=1676482725",
+      "rating": "6.4",
+      "duration": "2h 5m",
+      "year": "2023"
+    },
+    {
+      "_id": "10",
+      "name": "The Wolverine",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/0d40250ada12173e05670249964fe773_ab45a778-9bee-4cc9-a2de-ff778f1401d5_480x.progressive.jpg?v=1573592833",
+      "rating": "6.7",
+      "duration": "2h 6m",
+      "year": "2013"
+    },
+    {
+      "_id": "11",
+      "name": "Captain America: Civil War",
+      "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/scan003_50eb1b71-ec96-463d-ba1b-0958ffa0b4a1_480x.progressive.jpg?v=1672337805",
+      "rating": "7.8",
+      "duration": "2h 27m",
+      "year": "2016"
+    },
+    {
+      "_id": "12",
+      "name": "Need for Speed",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_FMjpg_UX1000_.jpg",
+      "rating": "6.4",
+      "duration": "2h 12m",
+      "year": "2014"
+    }
+  ]
+}
